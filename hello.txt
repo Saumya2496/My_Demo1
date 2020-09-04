@@ -8,5 +8,6 @@
 <p> Hi welcome to my first demo of working in  Repository </p>
 <p>hello1.1 is a sub branch of master branch</p>
 <p> added one more branch just to check whether it will merge with master one or not</p>
+<p>hello1.1 is a sub branch of master branch  (mergong)</p>
 </body>
 </html>
